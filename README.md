@@ -2,7 +2,8 @@
 Just exploring github initially.
 
 <br>
-This file is only for learning and understanding the whereabouts of Git and Github.
+<h2>This file is only for learning and understanding the whereabouts of Git and Github.</h2>
 
 <br>
-Author - Subha Pradeep Deb
+<h2>Author - Subha Pradeep Deb
+</h2>
